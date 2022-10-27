@@ -1,0 +1,30 @@
+﻿{
+  "titulo": "Cuestionario MARVEL",
+  "preguntas": [ 
+    {
+      "texto": "¿La identidad secreta de Spider-Man es \nPeter Parker?",
+	  "imagen": "spiderman",
+      "respuesta": true
+    },
+    {
+      "texto": "¿Capitán América combatió en \nla Primera Guerra Mundial?",
+	  "imagen": "capitan",
+      "respuesta": false
+    },
+    {
+      "texto": "¿Timely Comics era el nombre antes \nde llamarse Marvel Comics?",
+	  "imagen": "marvel",
+      "respuesta": true
+    },
+    {
+      "texto": "¿Mjölnier, es el nombre del \nmartillo de Thor?",
+	  "imagen": "thor",
+      "respuesta": true
+    },
+    {
+      "texto": "¿Latveria es el país gobernado \npor Pantera Negra?",
+	  "imagen": "pantera",
+      "respuesta": false
+    }
+  ]
+}
